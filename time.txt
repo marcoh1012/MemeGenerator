@@ -1,0 +1,10 @@
+Session One (4/10/2020)
+Start Time: 1:20PM
+End Time: 2:08PM
+    --main funtionality complete just need styling and remove button
+
+Session Two (4/10/2020)
+Start Time: 3:10PM
+End Time:   5:07PM
+
+
